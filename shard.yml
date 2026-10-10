@@ -1,0 +1,13 @@
+name: azure
+version: 0.1.0
+
+authors:
+  - Jamie Gaskins <jgaskins@hey.com>
+
+dependencies:
+  db:
+    github: crystal-lang/crystal-db
+
+crystal: '>= 1.21.1'
+
+license: MIT
